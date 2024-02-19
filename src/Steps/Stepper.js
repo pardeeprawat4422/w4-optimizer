@@ -22,7 +22,7 @@ export const Stepper = () => {
    <div class="w4-nav my-5">
                     <ul class="w4-tab-menu">
                         <li class="tab-about active">
-                            <button class="btn">About You</button>
+                            <a href="/"><button class="btn" >About You</button></a>
                         </li>
                         <li class="tab-income">
                             <button class="btn">Income</button>
